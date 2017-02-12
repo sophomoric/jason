@@ -38,3 +38,12 @@ h1 {
   display: inherit;
   margin-bottom: 100px;
 }
+
+.audio-wrap {
+  padding: 100px;
+}
+
+audio {
+  display: block;
+  margin: auto;
+}
