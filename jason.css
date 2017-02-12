@@ -30,3 +30,11 @@ h1 {
   float: left;
   margin-left: 40px;
 }
+
+.fan-pic a {
+  text-align: center;
+  font-size: 100px;
+  color: #fff;
+  display: inherit;
+  margin-bottom: 100px;
+}
