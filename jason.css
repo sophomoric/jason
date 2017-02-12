@@ -1,0 +1,32 @@
+body {
+  background: #000;
+}
+
+.main-image {
+  margin-bottom: 100px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gif-row {
+  height: 100px;
+  overflow: hidden;
+}
+
+.gif-row img {
+  height: 100px;
+  display: inline-block;
+  float: left;
+  margin-left: 40px;
+}
